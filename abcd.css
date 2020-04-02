@@ -1,0 +1,482 @@
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+#con{
+	float:right;
+	padding-right: 20px;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.bio2{
+	text-align: center;
+	font-size: 35px;
+	font-weight: 650;
+	color:steelblue;
+	position: static;
+}
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-linkedin {
+  background: #3B5998;
+  color: white;
+}
+.fol{
+}
+.fa-linked{
+  background: black;
+  color: white;
+}
+.exam{
+	font-size: 18px;
+	padding-top: 10px;
+}
+.sha{
+	padding-left: 30px;
+}
+.split {
+  width: 50%;
+  z-index: 1;
+  position: absolute;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+hr{
+	margin-top: 0.5em;
+}
+.lastim{
+font-size: 40px;
+text-align: center;
+padding-top: 10px;
+}
+.left {
+  left: 0;
+}
+
+.right {
+  right: 0;
+}
+
+.centered {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 0%);
+  text-align: center;
+}
+.lastsection{
+	height: 180px;
+	background-color: black;
+	width:100%;
+}
+#a1{
+width:33%;
+float:left;
+}
+.contact2{
+	font-size: 17px;
+    color:white;
+    text-decoration: none;
+}
+#idea{
+	max-width: 100%;
+}
+.bio{
+	font-family: "Courier New";
+	font-size: 25px;
+	text-align: center;
+	font-weight: 650;
+	color:steelblue;
+	position: static;
+}
+.sh{
+	width:33%;
+	float: left;
+}
+.contact{
+	font-size: 20px;
+    text-align: center;
+}
+#expand{
+	text-align: center;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin:10px;
+	font-size: 20px;
+	font-weight: bold;
+	background: black;
+	color: white;
+}
+.share1{
+	height: 50px;
+}
+.sharel{
+	height: 50px;
+}
+.s{
+	color :white;
+	font-weight: 500;
+	font-size: 17px;
+	text-align: left;
+	padding-left: 30px;
+}
+.f{
+	color :white;
+	font-weight: 500;
+	font-size: 17px;
+	text-align: center;
+}
+.term{
+	color :white;
+	font-weight: 500;
+	font-size: 17px;
+	text-align: right;
+	padding-top: 10px;
+}
+.terms{
+	color :white;
+	font-weight: 500;
+	font-size: 17px;
+	text-decoration: none;
+}
+.writelast{
+	margin-top: 0px;
+	padding-bottom: 0px;
+	height: 80px;
+	color:white;
+}
+.wr{
+	font-size: 14px;
+	text-align: center;
+
+}
+#speech{
+	position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.centered img {
+  width: 170px;
+  height: 150px;
+  border-radius: 50%;
+}
+.c{
+  position: relative;
+  text-align: center;
+  color: black;
+}
+.c {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#abc{
+font-size: 60px;
+}
+h1{
+	padding-bottom: 20px;
+	padding-top: 20px;
+	text-align: center;
+	background-color:black;
+	color: white;
+	margin: 0;
+	font-family: "Lucida Console", Courier;
+
+	line-height: 1.1;
+	font-weight: bold;
+	font-size: 40px;
+}
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add an active class to highlight the current page */
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+  display: none;
+}
+.start
+{
+	text-align: center;
+	font-size: 45px;
+	font-family: Impact, Charcoal, sans-serif;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color:#000066;
+}
+#ec{
+	color:blue;
+	font-size: 20px;
+	font-weight:400;
+}
+#com{
+	color:#666699;
+	font-size: 30px;
+	text-align: center;
+	padding-top: 0px;
+	margin-top: 0px;
+	padding-bottom: 20px;
+	font-family: "Lucida Sans Unicode";
+}
+#ask{
+	font-family: "Comic Sans MS";
+	font-weight: 550;
+}
+#leader{
+	color:#990000;
+	font-family: "Trebuchet MS";
+	font-size: 20px;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-top: 0px;
+}
+#comp{
+color:black;
+	font-size: 30px;
+	text-align: center;
+	padding-top: 0px;
+	margin-top: 0px;
+	padding-bottom: 20px;
+}
+#like{
+	color:black;
+	font-size: 30px;
+	font-weight:400;
+}
+.con {
+  position: relative;
+  text-align: center;
+}
+.img1{
+	margin-top: 0px;
+	height: 500px;
+}
+.img2{
+	height: 300px;
+}
+
+
+.mySlides {display: none}
+.mySlide {display: none}
+.mySlid {display: none}
+#shuru {vertical-align: middle;
+height: 700px;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1600px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+.head{
+	color: #94b8b8;
+}
+.lastim{
+	font-weight: 900;
+	color:#662200;
+}
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text2 {
+  color: white;
+  font-size: 18px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+.lasti{
+	text-align: center;
+	font-weight: 550;
+	font-size: 25px;
+	color:#99b3ff;
+}
+.text1 {
+  color: #ccccff;
+  font-size: 25px;
+  position: absolute;
+  padding-bottom: 25px;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+.text {
+  color: black;
+  font-size: 18px;
+  position: top;
+  width: 100%;
+  text-align: center;
+}
+.fin{
+	text-align: center;
+	font-weight: 900;
+	font-size: 15px;
+	padding-top: 20px;
+}
+.final{
+	text-align: center;
+    font-weight: 450;
+	font-size: 20px;
+	padding-top: 20px;
+	padding-bottom:1px;
+	color: #004d00;
+
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+.dots {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+.dotss {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+  position:fixed;
+}
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+
+
+/*
+div{
+	background-color:steelblue;
+	font-weight: bold;
+	color: white;
+	text-transform: uppercase;
+	font-size: 20px;
+}
+.bg-img {
+  /* The image used 
+  background-image: url("abcd.png");
+  height: 65%;
+  width: 95%;
+
+  /* Center and scale the image nicely 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  /* Needed to position the navbar 
+  position: relative;
+}
+*/
+/* Position the navbar container inside the image */
+
+
+/* The navbar */
+
